@@ -1,0 +1,3 @@
+Factory Method: is a creational design pattern that provide an interface for creating an object in a super class,
+ but allow the subclasses alter the kind of objects that will be created
+
